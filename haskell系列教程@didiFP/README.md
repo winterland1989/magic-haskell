@@ -1,1 +1,6 @@
-作为《魔力Haskell》的补充内容，本系列还在录制中。[点我收看！](http://www.iqiyi.com/playlist413777602.html)。
+作为《魔力Haskell》的补充内容，本系列还在录制中，预计一到两周更新一期，目前已经上传的有:
+
+- [haskell系列教程1 @ 滴滴FP 基础语法-模式匹配-STG执行模型](http://www.iqiyi.com/w_19ruf9y619.html)
+
+- [haskell系列教程2 @滴滴FP 函数式编程基础-函子-Lens](http://www.iqiyi.com/w_19rufjzgn1.html)
+
