@@ -1,7 +1,7 @@
 魔力Haskell官方网站
 ===================
 
-欢迎来到[《魔力Haskell》的官方网站](http://magic-haskell.com/)，这里提供书中的[样章](https://github.com/winterland1989/magic-haskell/tree/gh-pages/code)和[范例](https://github.com/winterland1989/magic-haskell/tree/gh-pages/code)。此外还有本人正在录制的一套[Haskell系列教程](http://www.iqiyi.com/w_19ruf9y619.html)的[配套slide](https://github.com/winterland1989/magic-haskell/tree/gh-pages/haskell%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B%40didiFP)。
+欢迎来到[《魔力Haskell》的官方网站](http://magic-haskell.com/)，这里提供书中的[样章](https://github.com/winterland1989/magic-haskell/tree/gh-pages/demo)和[范例](https://github.com/winterland1989/magic-haskell/tree/gh-pages/code)。此外还有本人正在录制的一套[Haskell系列教程](http://www.iqiyi.com/w_19ruf9y619.html)的[配套slide](https://github.com/winterland1989/magic-haskell/tree/gh-pages/haskell%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B%40didiFP)。
 
 # 用cabal运行
 
