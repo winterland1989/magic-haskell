@@ -3,7 +3,7 @@
 
 欢迎来到[《魔力Haskell》的官方网站](http://magic-haskell.com/)，这里提供书中的[样章](https://github.com/winterland1989/magic-haskell/tree/gh-pages/demo)和[范例](https://github.com/winterland1989/magic-haskell/tree/gh-pages/code)。此外还有本人正在录制的一套[Haskell系列教程](http://www.iqiyi.com/w_19ruf9y619.html)的[配套slide](https://github.com/winterland1989/magic-haskell/tree/gh-pages/haskell%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B%40didiFP)。
 
-另外有幸执教了2019年上半学年的Haskell编程课程，课件和视频在[这里](https://github.com/winterland1989/magic-haskell/tree/gh-pages/%E6%B8%85%E5%8D%8E2019Haskell%E8%AF%BE%E7%A8%8B)。
+另外有幸执教了2019年清华大学上半学年的Haskell编程课程，课件和视频在[这里](https://github.com/winterland1989/magic-haskell/tree/gh-pages/%E6%B8%85%E5%8D%8E2019Haskell%E8%AF%BE%E7%A8%8B)。
 
 # 用cabal运行
 
