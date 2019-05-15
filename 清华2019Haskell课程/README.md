@@ -6,4 +6,14 @@
 
 - [清华大学Haskell课程-链表操作-2019-03-18(part2)](https://www.bilibili.com/video/av46644905)
 
+- [清华大学Haskell课程-typeclass-2019-04-15](https://www.bilibili.com/video/av50862087)
+
+- [清华大学Haskell课程-Fun-With-Functor！-2019-04-29(part1)](https://www.bilibili.com/video/av51577612)
+
+- [清华大学Haskell课程-lens-2019-04-29(part2)](https://www.bilibili.com/video/av51576216)
+
+- [清华大学Haskell课程-Applicative-2019-05-07(part1)](https://www.bilibili.com/video/av51643279)
+
+- [清华大学Haskell课程-Monoid-2019-05-07(part2)](https://www.bilibili.com/video/av51660027)
+
 ... 待补充
